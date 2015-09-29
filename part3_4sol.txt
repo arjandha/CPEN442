@@ -1,0 +1,3 @@
+part1 x = 0 & y = 1146140826 CRC(x) = CRC(y) = 0xf4dbdf21 in 168.57 seconds
+part2 x = 759d98f165838aee96af8ba1da9b6a07 & y = 1343622642 CRC(x) = CRC(y) = 0xebf09b06 in
+197.05 seconds
